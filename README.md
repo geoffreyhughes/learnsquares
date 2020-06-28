@@ -1,0 +1,2 @@
+# learnsquares
+Learn chess squares
